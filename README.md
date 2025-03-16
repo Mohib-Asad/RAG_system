@@ -79,8 +79,7 @@ RAG_system/
 
 You may need to configure API keys and other settings in the Django settings file. Make sure to set up:
 
-1. LLM API keys (OpenAI, etc.)
-2. Vector database connection details (if using an external vector DB)
+1. LLM API keys (Groq, etc.)
 3. Document storage settings
 
 ## Development
